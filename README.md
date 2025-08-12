@@ -82,29 +82,31 @@ freelance-hub/
 - **React Icons** & **Lucide Icons** – modern icons
 
 ---
+# 🚀 Getting Started
 
-## 🚀 Getting Started
+Follow these steps to get the project up and running locally:
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/manailghouri/FreelanceHub.git
-cd freelancehub
+cd FreelanceHub
+
 
 2️⃣ Install dependencies
-bash
-npm install
+npm run dev
 
-3️⃣ Run the development server (Vite)
+3️⃣ Run the development server (using Vite)
 npm run dev
 
 4️⃣ Build for production
-bash
 npm run build
 
 📜 License
-This project is licensed under the MIT License – feel free to modify and use it.
+This project is licensed under the MIT License — feel free to modify and use it as you like.
 
 🙌 Acknowledgements
+Thanks to the amazing open-source tools and libraries used in this project:
+
 React
 
 Vite
@@ -117,6 +119,4 @@ React Icons
 
 Lucide Icons
 
-yaml
-Copy
-Edit
+
