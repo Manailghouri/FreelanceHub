@@ -1,13 +1,14 @@
 # 💼 Freelance Hub
 
-# 🌐 Demo
-
-Check out the live demo of this project, hosted on **Netlify**:  
-[**View Demo**](https://startling-alfajores-372482.netlify.app/)
 
 
 A modern, responsive **freelancing dashboard application** built with **React**, **Tailwind CSS**, HTML, CSS, JavaScript, and **Vite** for lightning-fast development.  
 It includes a **dashboard overview**, **profile management**, and **projects page**, designed for freelancers to track performance, manage skills, and update profile details.
+
+# 🌐 Demo
+
+Check out the live demo of this project, hosted on **Netlify**:  
+[**View Demo**](https://startling-alfajores-372482.netlify.app/)
 
 ---
 📸 Screenshots
